@@ -1,1 +1,9 @@
 /* write your override styles here */
+#wall .tag-1 {
+        z-index: auto;
+        position: absolute; /*removed position*/
+        top: revert;
+        left: unset;
+        width: px; /*removed width
+        height: 452px;
+}
